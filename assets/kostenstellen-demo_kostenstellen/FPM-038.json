@@ -1,0 +1,12 @@
+[
+  {
+    "id": null,
+    "kostenstelle": "Test",
+    "interneKostenstelle": "2",
+    "kunde": "3",
+    "debitor": "3",
+    "gueltigAb": "2023-07-05",
+    "gueltigBis": "2023-08-18",
+    "gueltig": null
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": null,
+    "kostenstelle": "Fehler 1",
+    "interneKostenstelle": "1",
+    "kunde": "1",
+    "debitor": "1",
+    "gueltigAb": "2023-05-01",
+    "gueltigBis": "2023-05-30",
+    "gueltig": true
+  },
+  {
+    "id": null,
+    "kostenstelle": "Fehler 2",
+    "interneKostenstelle": "1",
+    "kunde": "1",
+    "debitor": "1",
+    "gueltigAb": "2023-05-26",
+    "gueltigBis": "2023-06-10",
+    "gueltig": true
+  },
+  {
+    "id": null,
+    "kostenstelle": "Richtig 1",
+    "interneKostenstelle": "1",
+    "kunde": "1",
+    "debitor": "1",
+    "gueltigAb": "2023-06-11",
+    "gueltigBis": null,
+    "gueltig": true
+  },
+  {
+    "id": null,
+    "kostenstelle": "Richtig 2",
+    "interneKostenstelle": "2",
+    "kunde": "2",
+    "debitor": null,
+    "gueltigAb": "2023-05-01",
+    "gueltigBis": "2023-06-30",
+    "gueltig": true
+  }
+]

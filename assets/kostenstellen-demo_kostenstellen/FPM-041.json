@@ -1,0 +1,62 @@
+[
+  {
+    "id": null,
+    "kostenstelle": "Test 1",
+    "interneKostenstelle": "2",
+    "kunde": "3",
+    "debitor": "1",
+    "gueltigAb": "2023-05-01",
+    "gueltigBis": "2023-05-31",
+    "gueltig": null
+  },
+  {
+    "id": null,
+    "kostenstelle": "Test 1",
+    "interneKostenstelle": "1",
+    "kunde": "3",
+    "debitor": "3",
+    "gueltigAb": "2023-06-01",
+    "gueltigBis": null,
+    "gueltig": true
+  },
+  {
+    "id": null,
+    "kostenstelle": "Test 1",
+    "interneKostenstelle": "1",
+    "kunde": "1",
+    "debitor": "1",
+    "gueltigAb": "2023-06-01",
+    "gueltigBis": null,
+    "gueltig": true
+  },
+  {
+    "id": null,
+    "kostenstelle": "Test 2",
+    "interneKostenstelle": "1",
+    "kunde": "1",
+    "debitor": "1",
+    "gueltigAb": "2023-06-01",
+    "gueltigBis": null,
+    "gueltig": true
+  },
+  {
+    "id": null,
+    "kostenstelle": "Test 3",
+    "interneKostenstelle": "1",
+    "kunde": "2",
+    "debitor": "3",
+    "gueltigAb": "2023-05-01",
+    "gueltigBis": "2023-05-31",
+    "gueltig": null
+  },
+  {
+    "id": null,
+    "kostenstelle": "Test 3",
+    "interneKostenstelle": "1",
+    "kunde": "1",
+    "debitor": "3",
+    "gueltigAb": "2023-05-01",
+    "gueltigBis": "2023-05-31",
+    "gueltig": null
+  }
+]
